@@ -12,11 +12,15 @@
 	- Highest number of fundraisers were launched in the month of May, followed by June.
 	- Most successful campaigns were launched in May with 66.9% followed by 65.3% in June.
 
+###[Graph](Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 	- From the master dataset, 1047 fundrasiers have been analyzed that fall under the subcategory "Plays".
 	- Highest number of fundrasiers had the goals between $1,000 and $4,999.
 	- The fundraisers with goals less than $1,000 have been most successful at 75.8%.
 	- The next successful goal range is between $1,000 and $4,999 with 72.7%.
+
+###[Graph](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 	- The date format of the campaigns launch date and the deadlines are in unix format. If unknown, the dataset would not be useful.
