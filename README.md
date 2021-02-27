@@ -33,7 +33,7 @@
 	2. The campaigns launched in the month of May are most successful than the others, with a 66.9% success rate.
 
 - What can you conclude about the Outcomes based on Goals?
-	- The goal of the intended funraiser is $10,000. Based on the data, campaigns with this goal have a 59.2% success rate.
+	- The goal of the intended funraiser is $10,000. Based on the data, chances of campaigns with this goal to be successful is 59.2%.
 
 - What are some limitations of this dataset?
 	- The goal amount is in 'dollars' and it is assumed that this has already been converted for the fundraisers from other countries.
@@ -45,3 +45,9 @@
 		- With the number of successful campaigns across various categories and/or subcategories that will help in deciding upcoming scripts.
 		- To show the number of backers year over year. Which will help in assessing the trend of whether more or less people participating in crowdfunding. 
 		- We can further drill this data to assess the average pledge amount for a certain type of category/subcategory. This will help is assessing if more/lesser backers are supporting a certain catergory.
+
+**Recommendations:**
+Option 1: After analyzing the data based on Launch date and goal, running a fundraiser in the Month of May for $10,000 would have higher success rate.
+Option 2: Considering the data based on Launch date, goals, Plays within theatre category and the most recent data (between 2015 and 2017), my recommendation would be to run 2 fundraisers for $5,000 each in the Month of July and Nov. With this, the chances of getting funded in full would be around 80%. This is if the timing is not a constraint. 
+
+[Supporting Data here](For Final Recommendation.xlsx) - Refer to the tab name "Latest Data"
