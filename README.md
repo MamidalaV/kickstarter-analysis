@@ -47,7 +47,7 @@
 		- We can further drill this data to assess the average pledge amount for a certain type of category/subcategory. This will help is assessing if more/lesser backers are supporting a certain catergory.
 
 **Recommendations:**
-Option 1: After analyzing the data based on Launch date and goal, running a fundraiser in the Month of May for $10,000 would have higher success rate.
-Option 2: Considering the data based on Launch date, goals, Plays within theatre category and the most recent data (between 2015 and 2017), my recommendation would be to run 2 fundraisers for $5,000 each in the Month of July and Nov. With this, the chances of getting funded in full would be around 80%. This is if the timing is not a constraint. 
+	- Option 1: After analyzing the data based on Launch date and goal, running a fundraiser in the Month of May for $10,000 would have higher success rate.
+	- Option 2: Considering the data based on Launch date, goals, Plays within theatre category and the most recent data (between 2015 and 2017), my recommendation would be to run 2 fundraisers for $5,000 each in the Month of July and Nov. With this, the chances of getting funded in full would be around 80%. This is if the timing is not a constraint. 
 
 [Supporting Data here](For_Final_Recommendation.xlsx)
